@@ -46,7 +46,7 @@ const RevenuesChart = ({ data }) => {
       }
     }
     return acc;
-  }, []);
+  }, []).sort((a, b) => allMonths.indexOf(a.month) - allMonths.indexOf(b.month)); // Sort the data by month index
 
   return (
     <div
