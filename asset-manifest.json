@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Greenbox-App/static/js/main.44992bf5.js",
+    "main.js": "/Greenbox-App/static/js/main.882ef776.js",
     "index.html": "/Greenbox-App/index.html",
-    "main.44992bf5.js.map": "/Greenbox-App/static/js/main.44992bf5.js.map"
+    "main.882ef776.js.map": "/Greenbox-App/static/js/main.882ef776.js.map"
   },
   "entrypoints": [
-    "static/js/main.44992bf5.js"
+    "static/js/main.882ef776.js"
   ]
 }
