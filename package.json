@@ -1,7 +1,7 @@
 {
   "name": "dylan-lawler",
   "version": "0.1.0",
-  "homepage": "https://Dylan-Lawler.github.io/Greenbox-App",
+  "homepage": "https://Dylan-Lawler.github.io/Greenbox-Application",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
