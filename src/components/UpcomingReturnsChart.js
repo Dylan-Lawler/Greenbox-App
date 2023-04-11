@@ -38,7 +38,7 @@ const UpcomingReturnsChart = ({ data }) => {
 
   return (
     <div style={styles.container}>
-       <h2 style={{ textAlign: 'center', color: '#555', marginBottom: '20px' }}>Upcoming Pickups</h2>
+       <h2 style={{ textAlign: 'center', color: '#555', marginBottom: '20px' }}>Upcoming Dropoffs</h2>
       <table style={styles.table}>
         <thead>
           <tr style={styles.tableHeaderRow}>
